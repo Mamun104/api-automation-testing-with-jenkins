@@ -1,4 +1,4 @@
-# Api Automation Testing With Jenkins
+# API Automation Testing With Jenkins
 
 ## Technology and Tool Used
 - Postman
